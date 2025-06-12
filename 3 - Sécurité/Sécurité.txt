@@ -1,0 +1,13 @@
+CNIL :
+ - Non nominative : X
+ - Nominative : 
+	° Sensible
+		' Demande d'autorisation : Pas de réponse = Refus
+	° Non sensible
+		' Demande d'autorisation : Pas de réponse = Accord
+
+ANSSI :
+ - D : Disponibilité
+ - I : Intégrité
+ - C : Confidentialité
+ - P/A/T : Preuve/Auditabilité/Trace
