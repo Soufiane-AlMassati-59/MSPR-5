@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_-saXokeaEfChQY6T2FZgXg" id="_7HITAEeaEfChQY6T2FZgXg" label="BDD_DataWarehouse" purpose="BDD_DataWarehouse" description="BDD_DataWarehouse" version="0.1" statusCode="" item="_-saXpEeaEfChQY6T2FZgXg" displayName="BDD_DataWarehouse">
+    <author href="../../talend.project#_hycEAUeMEfChQY6T2FZgXg"/>
+    <additionalProperties xmi:id="_-scM0EeaEfChQY6T2FZgXg" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_-scM0UeaEfChQY6T2FZgXg" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_-scM0keaEfChQY6T2FZgXg" key="created_date" value="2025-06-12T16:39:00.637+0200"/>
+    <additionalProperties xmi:id="_-scM00eaEfChQY6T2FZgXg" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_-scM1EeaEfChQY6T2FZgXg" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_-scM1UeaEfChQY6T2FZgXg" key="modified_date" value="2025-06-18T14:36:03.012+0200"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_-saXo0eaEfChQY6T2FZgXg" path=""/>
+  <TalendProperties:DatabaseConnectionItem xmi:id="_-saXpEeaEfChQY6T2FZgXg" property="_-saXokeaEfChQY6T2FZgXg" state="_-saXo0eaEfChQY6T2FZgXg" typeName="PostgreSQL">
+    <connection href="BDD_DataWarehouse_0.1.item#_-sZwkEeaEfChQY6T2FZgXg"/>
+  </TalendProperties:DatabaseConnectionItem>
+</xmi:XMI>

@@ -1,0 +1,60 @@
+[ {
+  "baseItem" : {
+    "id" : "_D7cwsEeNEfChQY6T2FZgXg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_7HITAEeaEfChQY6T2FZgXg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_lWhj4EeOEfChQY6T2FZgXg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_7HITAEeaEfChQY6T2FZgXg - dim_attribution",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_7HITAEeaEfChQY6T2FZgXg - dim_date",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_7HITAEeaEfChQY6T2FZgXg - dim_location",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_7HITAEeaEfChQY6T2FZgXg - dim_pollutant",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_7HITAEeaEfChQY6T2FZgXg - dim_weather_condition",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_7HITAEeaEfChQY6T2FZgXg - fact_air_forecast",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_7HITAEeaEfChQY6T2FZgXg - fact_air_quality",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_7HITAEeaEfChQY6T2FZgXg - fact_weather",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_lWhj4EeOEfChQY6T2FZgXg - raw_air_forecast",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_lWhj4EeOEfChQY6T2FZgXg - raw_air_quality",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_lWhj4EeOEfChQY6T2FZgXg - raw_weather_data",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
